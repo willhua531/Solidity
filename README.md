@@ -1,6 +1,7 @@
 # Solidity
 ## Smart Contract
 ## All contracts were on Metamask Localhost 8545
+![lh](https://user-images.githubusercontent.com/77421809/121988556-24a0bb00-cd60-11eb-8bd6-b7bfdd771f46.png)
 
 ## Associate Profit Splitter Contract
 ### Equally split the profit by # of associates, transfer them the amount, return the balance to the sender.
